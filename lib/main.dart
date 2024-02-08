@@ -24,7 +24,7 @@ void main() {
                   launchUrl(_url);
                 },
                 child: const Padding(
-                  padding: EdgeInsets.all(50.0),
+                  padding: EdgeInsets.all(40.0),
                   child: Text(
                     'Support Vecteezy',
                     style: TextStyle(
